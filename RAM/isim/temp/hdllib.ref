@@ -1,0 +1,3 @@
+EN ram_32x8 NULL C:/Xilinx/RAM/ram_32x8.vhd sub00/vhpl00 1295474577
+EN ram_tb_vhd NULL C:/Xilinx/RAM/ram_tb.vhd sub00/vhpl02 1295474579
+AR ram_32x8 behavioral C:/Xilinx/RAM/ram_32x8.vhd sub00/vhpl01 1295474578

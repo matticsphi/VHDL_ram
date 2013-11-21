@@ -1,0 +1,2 @@
+vhdl isim_temp "ram_32x8.vhd"
+vhdl isim_temp "ram_tb.vhd"
